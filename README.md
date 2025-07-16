@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/-Naveed%20Amir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/naveed-amir-2639051b4">
   </a>
   <a href="mailto:adusmanibi17@gmail.com">
-    <img src="https://img.shields.io/badge/-naveedamir484%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-adusmanibi17%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white">
   </a>
   <a href="https://github.com/adusmani17">
-    <img src="https://img.shields.io/github/followers/naveedamir484?label=Follow&style=social">
+    <img src="https://img.shields.io/github/followers/adusmani17">
   </a>
 </p>
 
