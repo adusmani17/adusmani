@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/adusmani">
-    <img src="https://img.shields.io/badge/-Naveed%20Amir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/naveed-amir-2639051b4">
+    <img src="https://img.shields.io/badge/-Adnan%20Usmani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adusmani">
   </a>
   <a href="mailto:adusmanibi17@gmail.com">
     <img src="https://img.shields.io/badge/-adusmanibi17%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white">
